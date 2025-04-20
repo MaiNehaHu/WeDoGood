@@ -121,7 +121,7 @@ const ReportForm = () => {
     <>
       <NavBar currentPage="form" />
 
-      <div className="p-10 w-screen flex justify-center">
+      <div className="p-10 w-full flex justify-center">
         <form
           onSubmit={handleSubmit}
           className="bg-white rounded-xl px-10 pb-8 mb-4 w-full max-w-md space-y-4"
