@@ -10,7 +10,7 @@ app.use(express.json());
 
 // cors
 app.use(cors({
-    origin: ['http://localhost:5173'],
+    origin: ['http://localhost:5173', 'https://we-do-good.vercel.app'],
 }));
 
 // routes
