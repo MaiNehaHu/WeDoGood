@@ -7,8 +7,8 @@
 ## Setup Instructions
 1. Clone the repo
 ```
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/MaiNehaHu/WeDoGood.git
+cd WeDoGood
 ```
 2. Setup Backend
 ```
