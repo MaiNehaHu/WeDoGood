@@ -145,6 +145,7 @@ const ReportForm = () => {
                 max={type == "month" ? defaultMonth : ""}
                 value={formData[field]}
                 disabled={submitting}
+                placeholder={label}
                 onChange={handleChange}
                 className={`w-full border px-3 py-2 rounded-xl ${errors[field] ? 'border-red-500' : 'border-gray-300'
                   }`}
