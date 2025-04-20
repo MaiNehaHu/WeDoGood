@@ -26,4 +26,4 @@ npm run dev
 ```
 
 ## Deployed Link / Demo
-[Vercel Live Link]([https://pages.github.com/](https://we-do-good.vercel.app)).
+[Vercel Live Link]([https://we-do-good.vercel.app]).
